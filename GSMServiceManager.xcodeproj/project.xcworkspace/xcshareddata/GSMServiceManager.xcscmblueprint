@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4EB5A68845C7BD653941D48C81E7CCA192AD7C00",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "047E85C2262E3D1380537AB4306AB9C6F628B513" : 0,
+    "4EB5A68845C7BD653941D48C81E7CCA192AD7C00" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D1288C60-E019-4BE5-AB71-1BAE74CE03B8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "047E85C2262E3D1380537AB4306AB9C6F628B513" : "GSMServiceManager",
+    "4EB5A68845C7BD653941D48C81E7CCA192AD7C00" : "Gss_iOS_GSMServiceManager\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GSMServiceManager",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GSMServiceManager.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GlobalSoftSolutions\/GenericQueueProcessor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "047E85C2262E3D1380537AB4306AB9C6F628B513"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GlobalSoftSolutions\/Gss_iOS_GSMServiceManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4EB5A68845C7BD653941D48C81E7CCA192AD7C00"
+    }
+  ]
+}
